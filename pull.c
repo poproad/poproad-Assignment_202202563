@@ -3,6 +3,6 @@
 int main()
 {
 printf("Hi");
-printF("YNWA");
+printf("YNWA");
 return 0; 
 }
